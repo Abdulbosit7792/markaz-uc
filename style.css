@@ -1,0 +1,151 @@
+.SALOM{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+}
+.header2 button{
+    border: 1px solid #F9D423;
+    border-radius: 15px;
+    background-color: #F9D423;
+    padding: 3px 10px;
+}
+.header2 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;   
+}
+.container-fluid a:hover{
+    border-bottom: #FF0844;
+}
+.col-lg-6 p span{
+margin-top: -100px;
+}
+.header2 p{
+    margin: 20px;
+}
+.col-lg-6 span .fa-star{
+color: orange;
+}
+.rasm img{
+margin-top: -200px;
+}
+.card{
+    text-align: center;
+}
+.card i{
+    font-size: 30px;
+}
+.card:hover{
+
+}
+
+.work .container{
+    background-image: linear-gradient(#6813CC, #2575FC);
+    height: 80VH;
+    border-radius: 20px;
+    margin-top: 30px auto;
+}
+.card img{
+    width: 150px;
+    height: 150px;
+}
+.card{
+    height: 85%;
+    width: 90%;
+    margin-top: 60px;
+}
+h4 i{
+    color: red;
+}
+.popular{
+    text-align: center;
+ margin: 100px 0;
+}
+.m{
+    margin-top: -45px;
+    margin-left: 100px;
+}
+.m i{
+    font-size: 20px;
+    color: orange;
+}
+.button i{
+font-size: 15px;
+}
+.card .col-lg-6 i{
+    border: 1px solid gray;
+border-radius: 10px;
+height: 50px;
+width: 50px;
+margin-top: 10px;
+background-image: linear-gradient(#572ED9,#2673FB);
+}
+.i span{
+    background-color: #CBDFFE;
+}
+.matn{
+    margin-top: 100px;
+}
+.m span{
+    font-size: 20px;
+}
+
+.a i{
+    color: white;
+    margin-top: 5px;
+    align-items: center;
+    display: flex;
+    margin-left: 50px;
+    justify-content: center;
+}
+.m p{
+    color: grey;
+}
+.button button{
+    color: blue;
+}
+.link button{
+    background-image: linear-gradient(#FF0844 , #FF7B63);
+border-radius: 10px;
+border: white;
+padding: 10px 50px;
+color: white;
+}
+.col-lg-3 h3,span{
+margin-left: 180px;
+margin-top: -130px;
+}
+.col-lg-3 .brands i{
+    margin: 10px;
+}
+.col-lg-3 p{
+    margin: 0 10px;
+}
+.col-lg-3 h2{
+    margin: 0 20px;
+}
+.blok1{
+padding: 30px 40px;
+border-radius: 20px;
+}
+.blok1 i{
+    border: 1px solid white;
+    color: white;
+    width: 70px;
+    border-radius: 10px;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(#572ED9,#2673FB);
+    margin-left: 100px;
+}
+.blok .card:hover{
+    background-image: linear-gradient(#572ED9,#2673FB);
+    color: white;
+}
+.blok1 i{
+    background-image: linear-gradient(#572ED9,#2673FB);
+}
